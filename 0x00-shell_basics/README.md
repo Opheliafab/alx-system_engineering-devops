@@ -1,1 +1,1 @@
-display the contents list of my current directory
+change to users home directory
