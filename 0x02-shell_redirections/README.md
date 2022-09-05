@@ -1,1 +1,1 @@
-writing a Hello World Script
+writing a confused smiley script
